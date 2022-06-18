@@ -17,7 +17,7 @@ somewhere/streamarket$ ls
 data  dataviz.ipynb  prepare.py   requirements.txt
 ```
 
-2. build the dependencies before going further (it is preferable to use a virtual environment -- see here for more details)
+2. build the dependencies before going further (it is preferable to use a virtual environment -- see [here](https://kanmeugne.github.io/posts/setting-up-virtual-environments-in-python/ "Kanmeugne's Blog: Setting up your virtual environment in python") for more details)
 
 ```shell
 somewhere/streamarket$ pip install -r requirements.txt
