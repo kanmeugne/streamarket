@@ -1,4 +1,4 @@
-# Analysing commentators transfer between twitch streamers channels
+# Analyzing commentators transfer between twitch streamers channels
 
 This repository is about building visuals to understand how commentators flow between streamers channels on twitch.
 
