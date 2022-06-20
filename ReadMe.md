@@ -29,3 +29,4 @@ somewhere/streamarket$ pip install -r requirements.txt
 somewhere/streamarket$ jupyter lab dataviz.ipynb
 ```
 
+![heatmap preview](heatmap.gif)
